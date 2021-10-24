@@ -12,10 +12,10 @@
 ```py
 let info = {
   called_name : "Haryns",
-  age       : "15",
-  pronouns  : [ "he", "him" ],
-  fav_theme : [ "night sky", "blue sky" ],
-  fav_color : 0x0D1116;
+  age         : "15",
+  pronouns    : [ "he", "him" ],
+  fav_theme   : [ "night sky", "blue sky" ],
+  fav_color   : 0x0D1116;
 }
 ```
 </h4>
