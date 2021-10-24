@@ -51,7 +51,7 @@ let info = {
 <div align="center">
   <div align="center" class="contact">
       <a href="https://discord.com/channels/@me" target="_blank">
-        <img height="5%" src="discord.png">
+        <img height="2%" src="discord.png">
       </a>
 
       <a href="https://www.linkedin.com/in/ananda-gharyn-91141521a/" target="_blank">
