@@ -1,16 +1,3 @@
-
-<style>
-  .contact a{
-    margin:15px 20px 0 10; 
-  }
-  .contact{
-    background-color: #080A0D;
-    padding: 15px 0 15px 0;
-    width: 30%;
-    border-radius: 15px;
-  }
-</style>
-
 <h2>I Am Gharyn</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -24,7 +11,7 @@
   
 ```py
 let info = {
-  Called Name : "Haryns",
+  called_name : "Haryns",
   age       : "15",
   pronouns  : [ "he", "him" ],
   fav_theme : [ "night sky", "blue sky" ],
