@@ -51,8 +51,7 @@ let info = {
 </div> 
 
 <h2 align="center"> Contact Me: </h2>
-<div align="center">
-  <div align="center" class="contact">
+  <div align="center">
       <a href="https://discord.com/channels/@me" target="_blank">
         <img height="2%" src="discord.png">
       </a>
@@ -65,7 +64,6 @@ let info = {
         <img height="5%" src="gmail.png">
       </a>
   </div>
-</div>
 
 
 
