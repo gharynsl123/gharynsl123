@@ -11,7 +11,6 @@ let information = {
 
 <html>
 <head>
-<title></title>
 </head>
 <body>
 <h2>I Am Gharyn</h2>
@@ -62,11 +61,13 @@ let information = {
       <a href="https://discord.com/channels/@me" target="_blank">
         <img height="50px" src="discord.png">
       </a>
-
+  </div>
+  <div align="center">
       <a href="https://www.linkedin.com/in/ananda-gharyn-91141521a/" target="_blank">
-        <img height="50px src="linkedin.png">
+        <img height="50px" src="linkedin.png">
       </a>
-
+  </div>
+  <div align="center">                         
       <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=persolna1243@gmail.com" target="_blank">
         <img height="50px" src="gmail.png">
       </a>
