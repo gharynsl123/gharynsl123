@@ -1,4 +1,22 @@
+
+```py
+let information = {
+  called_name : "Haryns",
+  age         : "15",
+  pronouns    : [ "he", "him" ],
+  fav_theme   : [ "night sky", "blue sky" ],
+  fav_color   : 0x0D1116;
+}
+```
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
 <h2>I Am Gharyn</h2>
+
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=gharynsl123&theme=monokai&column=8&no-frame=true&no-bg=true">
@@ -8,19 +26,8 @@
 </div>
 
 <h4>
-<h2> Information: </h2>
   
   
-  
-```py
-let info = {
-  called_name : "Haryns",
-  age         : "15",
-  pronouns    : [ "he", "him" ],
-  fav_theme   : [ "night sky", "blue sky" ],
-  fav_color   : 0x0D1116;
-}
-```
 </h4>
 
 <h2 align="center"> My Stats: </h2>
@@ -53,18 +60,18 @@ let info = {
 <h2 align="center"> Contact Me: </h2>
   <div align="center">
       <a href="https://discord.com/channels/@me" target="_blank">
-        <img height="2%" src="discord.png">
+        <img height="50px" src="discord.png">
       </a>
 
       <a href="https://www.linkedin.com/in/ananda-gharyn-91141521a/" target="_blank">
-        <img height="5%" src="linkedin.png">
+        <img height="50px src="linkedin.png">
       </a>
 
       <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=persolna1243@gmail.com" target="_blank">
-        <img height="5%" src="gmail.png">
+        <img height="50px" src="gmail.png">
       </a>
   </div>
-
-
+</body>
+</html>
 
 
