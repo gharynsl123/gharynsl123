@@ -60,13 +60,13 @@ let information = {
 
 <h2 align="center"> Contact Me: </h2>
   <div align="center">
-      <a href="https://discord.com/channels/@me" target="_blank">
+      <a href="https://discord.com/channels/@me" target="_blank" style="margin: 10px 20px 10px 5;">
         <img height="50px" src="discord.png">
        </a>
-      <a href="https://www.linkedin.com/in/ananda-gharyn-91141521a/" target="_blank">
+      <a href="https://www.linkedin.com/in/ananda-gharyn-91141521a/" target="_blank" style="margin: 10px 20px 10px 5;">
         <img height="50px" src="linkedin.png">
        </a>
-        <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=persolna1243@gmail.com" target="_blank">
+        <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=persolna1243@gmail.com" target="_blank" style="margin: 10px 20px 10px 5;">
           <img height="50px" src="gmail.png">
         </a>
   </div>
