@@ -13,6 +13,7 @@ let information = {
 <head>
 </head>
 <body>
+  <link rel="stylesheet" type="text/css" href="style.css">
 <h2>I Am Gharyn</h2>
 
 
