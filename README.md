@@ -1,11 +1,18 @@
 
 ```py
-let information = {
+let inforBio = {
   called_name : "Haryns",
   age         : "15",
   pronouns    : [ "he", "him" ],
   fav_theme   : [ "night sky", "blue sky" ],
   fav_color   : 0x0D1116;
+}
+
+let dicord = {
+  username    : "iye iye",
+  tag_number  : "#1187",
+  server_join : "11",
+  info        : "need friends";
 }
 ```
 
