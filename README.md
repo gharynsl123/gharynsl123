@@ -77,3 +77,8 @@ let inforBio = {
 <br></br>
 
 [![@harin's Holopin board](https://holopin.io/api/user/board?user=harin)](https://holopin.io/@harin)
+
+
+## I Have A netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8d10284-c948-4634-8c9a-137b0a7b3cd9/deploy-status)](https://app.netlify.com/sites/idnsky-resto/deploys)
